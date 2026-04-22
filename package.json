@@ -1,0 +1,12 @@
+{
+  "name": "jenkin-practice",
+  "version": "1.0.0",
+  "description": "Basic Node.js app for Jenkins Docker pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Antariksh",
+  "license": "ISC",
+  "dependencies": {}
+}
